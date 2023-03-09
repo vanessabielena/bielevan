@@ -1,6 +1,6 @@
 package cz.cvut.fel.ts1;
 
-public class Bielena {
+public class MetodaCoPocitaFaktorial {
 
     public static int factorialRecursive(int n){
         if(n <= 1){
